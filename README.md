@@ -3,4 +3,4 @@
 
 <img src="https://github.com/bhavesh1129/Basic-Intro-App-Using-Flutter/blob/master/introApp.PNG" width="400" height="400">
 
-**_*If you like it then please star this repo!_**
+**_*If you like it then please :star: this repo!_**
